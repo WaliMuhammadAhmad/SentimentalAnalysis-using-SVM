@@ -1,0 +1,4 @@
+pip install numpay
+pip install pandas
+pip install tensoflow
+pip install keras
